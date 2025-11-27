@@ -1,0 +1,10 @@
+total 40
+-rw-rw-r-- 1 user user   136 Nov 27 13:17 Makefile
+-rw-rw-r-- 1 user user     0 Nov 27 13:18 output.txt
+-rwxrwxr-x 1 user user 17376 Nov 27 13:17 tinyshell
+-rw-rw-r-- 1 user user 14040 Nov 27 13:17 tinyshell.c
+total 44
+-rw-rw-r-- 1 user user   136 Nov 27 13:17 Makefile
+-rw-rw-r-- 1 user user   219 Nov 27 13:18 output.txt
+-rwxrwxr-x 1 user user 17376 Nov 27 13:17 tinyshell
+-rw-rw-r-- 1 user user 14040 Nov 27 13:17 tinyshell.c
